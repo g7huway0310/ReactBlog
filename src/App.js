@@ -11,8 +11,6 @@ function App() {
     </Navbar>
     <Switch>
       <Route path="/" exact></Route>
-
-
     </Switch>
 </Router>
   );
